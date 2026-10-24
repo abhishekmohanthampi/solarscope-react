@@ -29,3 +29,14 @@ Thumbs.db
 
 # Vite cache
 .vite/
+
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.vercel/
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
